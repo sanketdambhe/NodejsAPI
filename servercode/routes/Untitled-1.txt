@@ -1,0 +1,16 @@
+[
+    {
+        "_id": "5b926baef2c34e13acbe56d5",
+        "itemName": "patagobi",
+        "itemType": "vegi",
+        "itemPrice": "10",
+        "__v": 0
+    },
+    {
+        "_id": "5b926c16f2c34e13acbe56d6",
+        "itemName": "orenge",
+        "itemType": "fruit",
+        "itemPrice": "54",
+        "__v": 0
+    }
+]
